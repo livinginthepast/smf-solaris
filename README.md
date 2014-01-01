@@ -1,24 +1,31 @@
-# Smf::Solaris
+SMF::Solaris
+============
 
-TODO: Write a gem description
+A Ruby interface to the Service Management Facility (SMF) in Solaris and Illumos
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'smf-solaris'
+```ruby
+gem 'smf-solaris'
+```
 
 And then execute:
 
-    $ bundle
+```bash
+bundle
+```
 
 Or install it yourself as:
 
-    $ gem install smf-solaris
+```bash
+gem install smf-solaris
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+
 
 ## Contributing
 

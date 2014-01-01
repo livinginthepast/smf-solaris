@@ -1,7 +1,8 @@
-require "smf/solaris/version"
+require 'smf/solaris/version'
+require 'smf/solaris/builder'
 
-module Smf
+module SMF
   module Solaris
-    # Your code goes here...
+
   end
 end
