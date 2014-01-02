@@ -1,3 +1,5 @@
+require 'builder'
+
 module SMF
   module Solaris
     class Builder
