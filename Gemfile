@@ -6,5 +6,5 @@ gemspec
 group :test do
   gem 'guard-bundler'
   gem 'guard-rspec'
-  gem 'aruba-rspec', github: 'livinginthepast/aruba-rspec'
+  gem 'aruba-rspec'
 end
